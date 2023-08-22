@@ -56,5 +56,10 @@ Retrieve a list of all profiles:
 
 curl -X GET http://localhost:8080/blog/webapi/profiles
 
+
+### A blog Post accessed from the Front-End interface:
+
+http://localhost:8080/blog/postServlet?id=1
+
 ![blog-entry](https://github.com/mohberte/blog/assets/111369661/efdff0e5-ff90-4611-8793-215019a13feb)
 
